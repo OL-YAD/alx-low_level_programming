@@ -1,3 +1,6 @@
+/*
+ * File: 0-linear.c    linear search algorithm 
+
 #include "search_algos.h"
 
 /**
